@@ -59,7 +59,7 @@ require_once("./php/db.php");
     <input type="number" name="id_abonnes">
 
     <label for="date_emprunt">date_emprunt</label>
-    <input type="date" max ="" name="date_emprunt">
+    <input type="date" name="date_emprunt">
 
     <label for="date_retour_emprunt">date_retour</label>
     <input type="date" name="date_retour_emprunt">
